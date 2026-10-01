@@ -24,7 +24,7 @@ public class Student {
 
     // ==============================
     // 3. SETTER INJECTION
-    // ==============================
+    // ============================
     @Autowired
     public void setRef(Laptop ref) {
         this.ref = ref;
